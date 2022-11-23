@@ -1,6 +1,6 @@
-[I'm an inline-style link](https://www.google.com)
+[Live DEMO](https://www.google.com)
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+[I'm an inline-style link with title](https://silver-gumdrop-8ad867.netlify.app/)
 
 [I'm a reference-style link][Arbitrary case-insensitive reference text]
 
