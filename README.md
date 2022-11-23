@@ -1,7 +1,5 @@
 [Live DEMO](https://silver-gumdrop-8ad867.netlify.app/)
 
-[Live DEMO](https://silver-gumdrop-8ad867.netlify.app/)
-
 
 This app uses api to fetch data. Using input you can type an english word and search for synonyms. After listing a list oif synonyms you can click on chose word, refetch query and display list of synonyms. 
 ![image](https://user-images.githubusercontent.com/113437980/203502172-3ee8f251-bdfc-4f41-8151-c5217a3cea2a.png)
