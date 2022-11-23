@@ -1,4 +1,4 @@
-
+This app uses api to fetch data. Using input you can type an english word and search for synonyms. After listing a list oif synonyms you can click on choosen word, refetch query and display list of synonyms. 
 ![image](https://user-images.githubusercontent.com/113437980/203502172-3ee8f251-bdfc-4f41-8151-c5217a3cea2a.png)
 ![image](https://user-images.githubusercontent.com/113437980/203502240-feb61f20-5f0d-4beb-8661-e25ff61efbe9.png)
 
